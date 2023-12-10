@@ -47,6 +47,12 @@ Rest of the HTML elements.
 
 - `display: inline-block` elements respect top and bottom margins & paddings.
 
+# Others
+
+- <search>: The generic search element
+- <dialog>: The Dialog element
+
+
 # Resources
 
 1. https://html.spec.whatwg.org/
