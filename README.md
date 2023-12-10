@@ -49,8 +49,8 @@ Rest of the HTML elements.
 
 # Others
 
-- <search>: The generic search element
-- <dialog>: The Dialog element
+- `<search>`: The generic search element
+- `<dialog>`: The Dialog element
 
 
 # Resources
